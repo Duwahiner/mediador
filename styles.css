@@ -1,0 +1,41 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenido{
+    width: auto;
+    height: auto;
+}
+.title{
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 5rem
+}
+.subtitle{
+    margin: 0px;
+    padding: 4px;
+    background-color: deepskyblue;
+    font-family: sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    
+}
+.descripcion{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    color: #ABB2B9;
+    text-align: center;
+    font-weight: 100;
+}
